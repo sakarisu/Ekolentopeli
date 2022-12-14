@@ -1,0 +1,1 @@
+Tämä tietokantaskripti pitää (jostain syystä) ajaa SQL:ssä kahteen kertaan, että se toimii kunnolla. Ensimmäisellä kerralla se luo vain kaksi taulua, mutta kun sen ajaa uudestaan niin se luo loputkin taulut.
